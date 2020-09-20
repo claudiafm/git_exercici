@@ -2,6 +2,10 @@ hola mundo!!!!
 
 que ganas de la vuelta a la normalidad
 
+<<<<<<< HEAD
 modificacion en branch1
 
 modificación en master
+=======
+modificacion en branch1
+>>>>>>> branch1
